@@ -1,0 +1,11 @@
+/* Normal  */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Moderustic:wght@300..800&display=swap');
+font-family: "Moderustic", sans-serif;
+
+
+/* Heading  */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+ font-family: "DM Serif Text", serif;
+
+ /* bacckground-color: #260755 */
+ /* color:#fff  */

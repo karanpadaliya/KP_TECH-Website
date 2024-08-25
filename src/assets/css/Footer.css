@@ -1,0 +1,51 @@
+/* Normal  */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Moderustic:wght@300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer{
+    background-color: #260755;
+    color: #fff;
+}
+
+#up_footer{
+    width: 80%;
+    /* border: 1px solid beige; */
+    margin: auto;
+    padding: 30px;
+}
+#up_footer h3{
+    margin-bottom: 20px;
+    font-family: "DM Serif Text", serif;
+}
+#up_footer p{
+    width: 350px;
+    margin-bottom: 25px;
+}
+#up_footer li{
+    list-style: none;
+    cursor: pointer;
+    padding: 5px;
+}
+#up_footer a{
+    background-color: #fff;
+    padding: 10px;
+    font-size: 18px;
+    color: #260755;
+    margin: 5px;
+    transition: 1s;
+}
+#up_footer a:hover{
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+}
+#footer_bg{
+    width: 100%;
+    height: 200px;
+}
